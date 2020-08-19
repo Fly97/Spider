@@ -19,319 +19,45 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a975ac84-3bc6-48ef-8f63-aa328b683b21" name="Default Changelist" comment="">
-<<<<<<< HEAD
-=======
-      <change afterPath="$PROJECT_DIR$/1/my_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/ip代理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/renren_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaoji/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaoji/chaojiying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaoji/code.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Spider_Hero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Spider_Hero.iml" afterDir="false" />
+    <list default="true" id="8f066412-9842-4975-9e38-763fb4b4d456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Spider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Spider_Hero.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
->>>>>>> bf98f0eed5b6fdd2339f7b0aaa54e37e23c5cda1
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/picture/克拉女神 车模璇子 橙色跑车4k美女壁纸.jgp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/picture/克拉女神美女美腿车模璇子4k高清壁纸.jgp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/picture/刘奕宁 好看身材美女 白色背心 短裤 4k美女壁纸3840x2160.jgp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/picture/好身材美女模特刘奕宁 居家室内写真4k美女壁纸3840x2160.jgp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/picture/美女明星陈钰琪4k高清壁纸3840x2160.jgp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8/xiaohua/xiaohua/spiders/xiaoh.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/xiaohua/xiaohua/spiders/xiaoh.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="FUSProjectUsageTrigger">
-    <session id="1195718536">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="13" />
-          <entry key="jpg" value="2" />
-          <entry key="note" value="1" />
-          <entry key="py" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="13" />
-          <entry key="Image" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="31" />
-          <entry key="py" value="2354" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="2354" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Spider_Hero" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3/xpath_picture.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-              <folding>
-                <element signature="e#129#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3/xpath_jianli.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-              <folding>
-                <element signature="e#128#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-=======
->>>>>>> bf98f0eed5b6fdd2339f7b0aaa54e37e23c5cda1
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1g4X4ifhczLn3ldtgmOB4cN97n2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-<<<<<<< HEAD
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Spider_Hero" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spider_Hero" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-=======
+  <component name="ProjectId" id="1gINT4bXABhcDGTFNjxZzvGT3cr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
->>>>>>> bf98f0eed5b6fdd2339f7b0aaa54e37e23c5cda1
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WorkSpace\Spider_Hero\2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\Spider\5" />
-      <recent name="D:\workspace\Spider\chaoji" />
-      <recent name="D:\WorkSpace\Spider_Hero\3" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.ip代理">
-    <configuration name="chaojiying" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chaoji" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaoji/chaojiying.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ip代理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/ip代理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="renren_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/renren_login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="request_服务平台" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2/html_list" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\WorkSpace\Spider_Hero\2\request_ajax服务平台.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xpath_jianli" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/xpath_jianli.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xpath_picture" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider_Hero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/xpath_picture.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-<<<<<<< HEAD
-      <item itemvalue="Python.request_肯德基" />
-      <item itemvalue="Python.request_服务平台 (1)" />
-      <item itemvalue="Python.request_cbdb" />
-      <item itemvalue="Python.xpath" />
-=======
->>>>>>> bf98f0eed5b6fdd2339f7b0aaa54e37e23c5cda1
-      <item itemvalue="Python.xpath_picture" />
-      <item itemvalue="Python.xpath_jianli" />
-      <item itemvalue="Python.chaojiying" />
-      <item itemvalue="Python.renren_login" />
-      <item itemvalue="Python.ip代理" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.ip代理" />
-        <item itemvalue="Python.renren_login" />
-        <item itemvalue="Python.chaojiying" />
-        <item itemvalue="Python.xpath_jianli" />
-        <item itemvalue="Python.xpath_picture" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a975ac84-3bc6-48ef-8f63-aa328b683b21" name="Default Changelist" comment="" />
-      <created>1597242154421</created>
+      <changelist id="8f066412-9842-4975-9e38-763fb4b4d456" name="Default Changelist" comment="" />
+      <created>1597798150078</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597242154421</updated>
+      <updated>1597798150078</updated>
     </task>
     <servers />
   </component>
@@ -346,164 +72,30 @@
       </map>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2/sougou.html" />
-    <entry file="file://$PROJECT_DIR$/2/html_list/汉武帝.html" />
-    <entry file="file://$PROJECT_DIR$/2/html_list/曹操.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request_百度翻译.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request_豆瓣.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request_网页信息采集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/html_list/pintai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/cbdb.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request_ajax服务平台.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/request_cbdb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/cbdb2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2490">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request_肯德基.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/request1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/picture/克拉女神 车模璇子 橙色跑车4k美女壁纸.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/picture/陈钰琪 夜拍 时装美女4k壁纸.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/xpath_picture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="e#129#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/xpath_jianli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <folding>
-            <element signature="e#128#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-=======
   <component name="WindowStateProjectService">
-    <state x="1323" y="445" key="#Notifications" timestamp="1597374688654">
+    <state width="1899" height="178" key="GridCell.Tab.0.bottom" timestamp="1597833584429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1323" y="445" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1597374688654" />
-    <state x="656" y="111" key="#chaojiying" timestamp="1597375410317">
+    <state width="1899" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597833584429" />
+    <state width="1899" height="178" key="GridCell.Tab.0.center" timestamp="1597833584429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="111" key="#chaojiying/0.0.1920.1040@0.0.1920.1040" timestamp="1597375410317" />
-    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597378760671">
+    <state width="1899" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597833584429" />
+    <state width="1899" height="178" key="GridCell.Tab.0.left" timestamp="1597833584429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="710" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597378760671" />
-    <state width="1034" height="258" key="GridCell.Tab.0.bottom" timestamp="1597390460733">
+    <state width="1899" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597833584429" />
+    <state width="1899" height="178" key="GridCell.Tab.0.right" timestamp="1597833584429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597390460733" />
-    <state width="1034" height="258" key="GridCell.Tab.0.center" timestamp="1597390460733">
+    <state width="1899" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597833584429" />
+    <state x="9" y="197" key="SettingsEditor" timestamp="1597798389436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597390460733" />
-    <state width="1034" height="258" key="GridCell.Tab.0.left" timestamp="1597390460733">
+    <state x="9" y="197" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597798389436" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597798168568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597390460733" />
-    <state width="1034" height="258" key="GridCell.Tab.0.right" timestamp="1597390460733">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1034" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597390460733" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1597375440135">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597375440135" />
->>>>>>> bf98f0eed5b6fdd2339f7b0aaa54e37e23c5cda1
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597798168568" />
   </component>
 </project>

@@ -13,7 +13,7 @@ class XiaohSpider(scrapy.Spider):
         for li in li_list:
             img_name = li.xpath('./a[1]/img/@alt').extract_first()
             print(img_name)
-
+    
         if self.page_nue <= 11:
             new_url = format(self.url % self.page_nue)
             self.page_nue += 1
